@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "DEVELOPMENT TERMINOLOGY"
+date:   2015-05-28 19:24:46
+categories: jekyll update
+---
+What is TDD and Unit testing ?
+
+-->TDD stands for test driven development wherein you write tests which fails expectedly and eventually you refactor the code to produce the desired output.
+
+ 
+
+Unit Testing?
+
+--> Unit testing is a software testing method by which individual units of source code, sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures, are tested to determine whether they are fit for use.
+
+S in SOLID ?
+
+--> S in SOLID stands for single responsibility.In object oriented programming the single responsibility principle states that every class should have responsibility over a single part of the functionality provided by the software, and that responsibility should be entirely encapsulated by the class. All its services should be narrowly aligned with that responsibility.
+
+Duck Typing in Ruby
+
+Wiki says : In computer programming with object oriented programming languages, duck typing is a layer of programming language and design rules on top of typing.
+
+Duck typing is concerned with establishing the suitability of an object for some purpose. With normal typing, suitability is assumed to be determined by an object's type only. In duck typing, an object's suitability is determined by the presence of certain methods and properties (with appropriate meaning), rather than the actual type of the object.
+
+In Ruby, we rely less on the type (or class) of an object and more on its capabilities. Hence, Duck Typing means an object type is defined by what it can do, not by what it is. Duck Typing refers to the tendency of Ruby to be less concerned with the class of an object and more concerned with what methods can be called on it and what operations can be performed on it. In Ruby, we would use respond_to? or might simply pass an object to a method and know that an exception will be raised if it is used inappropriately.
+
+link : http://rubylearning.com/satishtalim/duck_typing.html
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Using git :
+
+Create a repository by git init and then select one of the options listed to move ahead.
+
+git status
+
+git commit -m "New Commit"
+
+git remote add origin git@github.com:shivamv/Blog_using_Ruby_on_Rails.git
+git add .
+
+git push -u origin master           ------> specifing the branch
+
+git clone  [link] ----> from the repository forked
+
+git pull
+
+-------------------------------------------------------------------------------------------------------------------------
+
+SSH and HTTPS login in Git Version Control:
+
+Https uses cache to login in the account for a specific amount of time whereas in SSH your computer is permannently registered on the Git
+
+------------------------------------------------------------------------------------------------------------------------
+
+Test Driven Development in Ruby
+
+https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes ---> Git Version Control management!
+
+Usage of rspec and rakefile for writing specs/test cases and then code the problem accordingly.
+
+Usage of rake : http://jasonseifer.com/2010/04/06/rake-tutorial
+
+------------------------------------------------------------------------------------------------------------------------
+

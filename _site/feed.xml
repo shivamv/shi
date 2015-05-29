@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>Welcome Visitor !</title>
+    <description>This website is designed to help developers go through basic details of the development process.
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 May 2015 11:47:33 +0530</pubDate>
-    <lastBuildDate>Fri, 29 May 2015 11:47:33 +0530</lastBuildDate>
+    <pubDate>Fri, 29 May 2015 15:33:55 +0530</pubDate>
+    <lastBuildDate>Fri, 29 May 2015 15:33:55 +0530</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Nerdy Talks</title>
-        <description>&lt;h1&gt;Post describes some points to remember which i grasped on a daily basis&lt;/h1&gt;
+        <description>&lt;h1&gt;Daily Talks&lt;/h1&gt;
 
 &lt;p1&gt;Normalization of the database is a programmers issue which has to fixed by the programmer.It does not depend upon the typr of the database used: be it NoSql or be it Sql&lt;/p1&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -32,7 +32,7 @@
       </item>
     
       <item>
-        <title>DEVELOPMENT TERMINOLOGY</title>
+        <title>Development Terminology</title>
         <description>&lt;p&gt;What is TDD and Unit testing ?&lt;/p&gt;
 
 &lt;p&gt;–&amp;gt;TDD stands for test driven development wherein you write tests which fails expectedly and eventually you refactor the code to produce the desired output.&lt;/p&gt;
@@ -109,7 +109,7 @@
       </item>
     
       <item>
-        <title>ETHICS FOR SOFTWARE DEVELOPMENT!</title>
+        <title>Ethics for Software Development!</title>
         <description>&lt;p&gt;Craft simple, straightforward, understandable code&lt;/p&gt;
 
 &lt;p&gt;1) Try to implement single class functionality&lt;/p&gt;

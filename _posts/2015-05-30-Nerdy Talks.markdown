@@ -5,7 +5,7 @@ date:   2015-05-30 11:40:56
 categories: jekyll update
 ---
 
-<h1>Post describes some points to remember which i grasped on a daily basis</h1>
+<h1>Daily Talks</h1>
 
 <p1>Normalization of the database is a programmers issue which has to fixed by the programmer.It does not depend upon the typr of the database used: be it NoSql or be it Sql</p1>
 <br>

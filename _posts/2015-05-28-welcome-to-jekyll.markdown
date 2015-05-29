@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ETHICS FOR SOFTWARE DEVELOPMENT!"
+title:  "Ethics for Software Development!"
 date:   2015-05-28 19:05:37
 categories: jekyll update
 ---

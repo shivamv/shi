@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 May 2015 10:55:00 +0530</pubDate>
-    <lastBuildDate>Fri, 29 May 2015 10:55:00 +0530</lastBuildDate>
+    <pubDate>Fri, 29 May 2015 11:15:56 +0530</pubDate>
+    <lastBuildDate>Fri, 29 May 2015 11:15:56 +0530</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -40,14 +40,19 @@
 
 &lt;p&gt;Create a repository by git init and then select one of the options listed to move ahead.&lt;/p&gt;
 
+&lt;p&gt;git clone&lt;/p&gt;
+
 &lt;p&gt;git status&lt;/p&gt;
 
 &lt;p&gt;git commit -m “New Commit”&lt;/p&gt;
 
-&lt;p&gt;git remote add origin git@github.com:shivamv/Blog_using_Ruby_on_Rails.git
-git add .&lt;/p&gt;
+&lt;p&gt;git remote add origin git@github.com:shivamv/Blog_using_Ruby_on_Rails.git&lt;/p&gt;
+
+&lt;p&gt;git add .&lt;/p&gt;
 
 &lt;p&gt;git push -u origin master           ——&amp;gt; specifing the branch&lt;/p&gt;
+
+&lt;p&gt;Forking a repository:&lt;/p&gt;
 
 &lt;p&gt;git clone  [link] —-&amp;gt; from the repository forked&lt;/p&gt;
 
@@ -70,7 +75,6 @@ git add .&lt;/p&gt;
 &lt;p&gt;Usage of rake : http://jasonseifer.com/2010/04/06/rake-tutorial&lt;/p&gt;
 
 &lt;hr /&gt;
-
 </description>
         <pubDate>Fri, 29 May 2015 00:54:46 +0530</pubDate>
         <link>http://yourdomain.com/jekyll/update/2015/05/29/New_Post.html</link>

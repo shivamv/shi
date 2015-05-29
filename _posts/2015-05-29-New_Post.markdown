@@ -33,14 +33,19 @@ Using git :
 
 Create a repository by git init and then select one of the options listed to move ahead.
 
+git clone 
+
 git status
 
 git commit -m "New Commit"
 
 git remote add origin git@github.com:shivamv/Blog_using_Ruby_on_Rails.git
+
 git add .
 
 git push -u origin master           ------> specifing the branch
+
+Forking a repository:
 
 git clone  [link] ----> from the repository forked
 
@@ -63,4 +68,3 @@ Usage of rspec and rakefile for writing specs/test cases and then code the probl
 Usage of rake : http://jasonseifer.com/2010/04/06/rake-tutorial
 
 ------------------------------------------------------------------------------------------------------------------------
-

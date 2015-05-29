@@ -6,9 +6,30 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 May 2015 11:15:56 +0530</pubDate>
-    <lastBuildDate>Fri, 29 May 2015 11:15:56 +0530</lastBuildDate>
+    <pubDate>Fri, 29 May 2015 11:47:33 +0530</pubDate>
+    <lastBuildDate>Fri, 29 May 2015 11:47:33 +0530</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Nerdy Talks</title>
+        <description>&lt;h1&gt;Post describes some points to remember which i grasped on a daily basis&lt;/h1&gt;
+
+&lt;p1&gt;Normalization of the database is a programmers issue which has to fixed by the programmer.It does not depend upon the typr of the database used: be it NoSql or be it Sql&lt;/p1&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p2&gt;The basic difference between NoSql and MySql database would be that MySql stores data in a schema, tabular form whereas the data in a NoSql is stored in form of hashes which basically speeds up the searches and processes applied on the database.&lt;/p2&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p3&gt;Rails is a full-stack webframework of ruby which implies that it offers lots of features to be implemented in the framework. It gives you a fully furnished model, view, controller and can incorporate APIs too.&lt;/p3&gt;
+</description>
+        <pubDate>Sat, 30 May 2015 17:10:56 +0530</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/05/30/Nerdy%20Talks.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/05/30/Nerdy%20Talks.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>DEVELOPMENT TERMINOLOGY</title>

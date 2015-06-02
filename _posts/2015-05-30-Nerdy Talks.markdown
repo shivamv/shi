@@ -19,4 +19,5 @@ DRY : Don't repeat yourself
 <br>KISS : Keep it simple stupid
 <br>TDD : Test driven development
 <br>FMSC : Fat and skinny model controller
+<br>REST : Representational State Transfer (REST) is a software architecture style consisting of guidelines and best practices for creating scalable web services.
 </p4>

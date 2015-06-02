@@ -21,3 +21,8 @@ DRY : Don't repeat yourself
 <br>FMSC : Fat and skinny model controller
 <br>REST : Representational State Transfer (REST) is a software architecture style consisting of guidelines and best practices for creating scalable web services.
 </p4>
+
+<br>
+<p5>$rake routes is used to display the routes
+<br>$rake -T is used to display all the tasks defined under rake
+<br>:get=>'/' implies we are mapping http get request at the home</p5>

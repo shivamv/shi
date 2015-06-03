@@ -18,3 +18,4 @@ Resource is used to club together entities with similar properties.You can creat
 <p4>Different environments of development:
 Development, Testing, Production</p4>
 <br>
+<p5>Write specs for routes, model, controller for now</p5>

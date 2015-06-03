@@ -19,3 +19,9 @@ Resource is used to club together entities with similar properties.You can creat
 Development, Testing, Production</p4>
 <br>
 <p5>Write specs for routes, model, controller for now</p5>
+<br>
+<p6>Sequence of functions matters in rails</p6> <br>
+<p7>link_to usage: link_to is basically a built-in helper in rails which is used in html files to link to other pages in view.
+Usage: link_to('whatever you want to display in the link',{:controller => 'corresponding controller name',:action => 'corresponding action name'})
+</p7><br>
+<a href ="http://stackoverflow.com/questions/6882207/how-link-to-mechanism-works-in-ruby-on-rails">Reference</a>

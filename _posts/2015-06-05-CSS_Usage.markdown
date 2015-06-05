@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Rails Development"
+date:   2015-06-05 03:07:41
+categories: jekyll update
+---
+<h>Using Bootstrap</h>
+<br>
+<p>Install bootstrap using bower and install bower using npm: a package manager for javascript and a default for Node.js and deal with them.Node.js is an open source, cross-platform runtime environment for server-side and networking applications. Node.js applications are written in JavaScript, and can be run within the Node.js runtime on OS X, Microsoft Windows, Linux, FreeBSD, NonStop and IBM i.</p>

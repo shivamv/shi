@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Development Terminology"
+title:  "Phonegap"
 date:   2015-08-25 01:24:44
 categories: jekyll update
 ---
